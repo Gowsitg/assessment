@@ -16,4 +16,4 @@ This is a mini web app built as part of a frontend developer assignment. It incl
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/me/user-directory-assignment.git
+   git clone https://github.com/Gowsitg/assessment.git
